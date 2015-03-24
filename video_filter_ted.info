@@ -1,0 +1,5 @@
+name = Video Filter Ted
+description = Filter allow the embedding of videos from Ted when using Video Filter
+core = 7.x
+dependencies[] = video_filter
+package = Input filters
